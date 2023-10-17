@@ -23,7 +23,7 @@ enter_email.send_keys("1114961163")
 
 # enter password
 enter_pw = driver.find_element(By.XPATH, '//*[@id="login-password"]')
-enter_pw.send_keys("6XJ7BKQaS")
+enter_pw.send_keys("*********")
 
 # click login
 click_login = driver.find_element(By.XPATH, '//*[@id="login-button"]/span[1]/span')
